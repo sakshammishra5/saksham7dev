@@ -5,8 +5,8 @@ import Blog from "./components/homepage/blog";
 import ContactSection from "./components/homepage/contact";
 // import Education from "./components/homepage/education";
 // import Experience from "./components/homepage/experience";
-import HeroSection from "./components/homepage/hero-section";
-import Projects from "./components/homepage/projects";
+import HeroSection from "./components/homepage/hero-section/yoyo";
+import Projects from "./components/homepage/projects/index_1";
 import Skills from "./components/homepage/skills";
 
 import dynamic from "next/dynamic";

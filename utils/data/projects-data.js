@@ -5,8 +5,8 @@ export const projectsData = [
         description: "A dynamic labour booking platform crafted with the MERN stack (MongoDB, Express.js, React, Node.js), designed to connect clients with skilled labourers effortlessly. Featuring JWT-based authentication for secure user access and Yup for robust form validation, the app ensures a seamless and reliable booking experience. Its responsive React interface, paired with a scalable MongoDB backend, delivers intuitive navigation, real-time data validation, and efficient service management for both clients and labourers.",
         tools: ['Express', 'MongoDB', 'React.js', 'Nodejs' ,'tailwind','yup', 'jwt'],
         role: 'Full Stack WebApp',
-        code: '',
-        demo: '',
+        code: 'https://github.com/sakshammishra5/labr_frontend',
+        demo: 'https://labr-frontend.vercel.app/',
     },
     {
         id: 2,
@@ -28,11 +28,11 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Newsroom Management',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-        code: '',
-        demo: '',
+        name: 'Email Client App',
+        description: "Email webApp",
+        tools: ['Reactjs', 'Tailwind', 'React-router'],
+        code: 'https://github.com/sakshammishra5/EmailClient',
+        demo: 'https://email-client-xi.vercel.app/',
         role: 'Full Stack Developer',
     }
 ];
